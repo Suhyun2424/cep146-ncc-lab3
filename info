@@ -1,0 +1,69 @@
+
+Host Name:                     배수현
+OS Name:                       Microsoft Windows 11 Pro
+OS Version:                    10.0.26100 N/A Build 26100
+OS Manufacturer:               Microsoft Corporation
+OS Configuration:              Standalone Workstation
+OS Build Type:                 Multiprocessor Free
+Registered Owner:              hongyeee@naver.com
+Registered Organization:       N/A
+Product ID:                    00330-81469-28907-AA317
+Original Install Date:         3/18/2025, 8:48:41 AM
+System Boot Time:              1/15/2026, 7:42:11 AM
+System Manufacturer:           SAMSUNG ELECTRONICS CO., LTD.
+System Model:                  900X5T
+System Type:                   x64-based PC
+Processor(s):                  1 Processor(s) Installed.
+                               [01]: Intel64 Family 6 Model 142 Stepping 10 GenuineIntel ~1600 Mhz
+BIOS Version:                  American Megatrends Inc. P05AGM.053.210920.SH, 9/20/2021
+Windows Directory:             C:\WINDOWS
+System Directory:              C:\WINDOWS\system32
+Boot Device:                   \Device\HarddiskVolume2
+System Locale:                 ko;Korean
+Input Locale:                  en-us;English (United States)
+Time Zone:                     N/A
+Total Physical Memory:         8,101 MB
+Available Physical Memory:     1,338 MB
+Virtual Memory: Max Size:      15,781 MB
+Virtual Memory: Available:     3,159 MB
+Virtual Memory: In Use:        12,622 MB
+Page File Location(s):         C:\pagefile.sys
+Domain:                        WORKGROUP
+Logon Server:                  \\배수현
+Hotfix(s):                     5 Hotfix(s) Installed.
+                               [01]: KB5066131
+                               [02]: KB5066128
+                               [03]: KB5054156
+                               [04]: KB5074109
+                               [05]: KB5071142
+Network Card(s):               3 NIC(s) Installed.
+                               [01]: Intel(R) Dual Band Wireless-AC 8265
+                                     Connection Name: Wi-Fi
+                                     DHCP Enabled:    Yes
+                                     DHCP Server:     10.101.20.20
+                                     IP address(es)
+                                     [01]: 10.248.3.44
+                                     [02]: fe80::acf2:9d94:a87a:c0f1
+                               [02]: VMware Virtual Ethernet Adapter for VMnet1
+                                     Connection Name: VMware Network Adapter VMnet1
+                                     DHCP Enabled:    Yes
+                                     DHCP Server:     192.168.237.254
+                                     IP address(es)
+                                     [01]: 192.168.237.1
+                                     [02]: fe80::1ca0:5f8:8c0:67cf
+                               [03]: VMware Virtual Ethernet Adapter for VMnet8
+                                     Connection Name: VMware Network Adapter VMnet8
+                                     DHCP Enabled:    Yes
+                                     DHCP Server:     192.168.18.254
+                                     IP address(es)
+                                     [01]: 192.168.18.1
+                                     [02]: fe80::3b6b:65c9:d738:482c
+Virtualization-based security: Status: Not enabled
+                               App Control for Business policy: Enforced
+                               App Control for Business user mode policy: Off
+                               Security Features Enabled:
+Hyper-V Requirements:          VM Monitor Mode Extensions: Yes
+                               Virtualization Enabled In Firmware: Yes
+                               Second Level Address Translation: Yes
+                               Data Execution Prevention Available: Yes
+hongy
