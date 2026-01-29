@@ -4,6 +4,9 @@
 ** ingridients
 * chocolate
 * milk
+** how to make
+* mix all ingridients
+* bake in oven
 
  [source] (https://joyfoodsunshine.com/the-most-amazing-chocolate-chip-cookiess/)
 
